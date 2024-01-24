@@ -2,6 +2,10 @@
 
 
 
+## 기술 및 사용한 라이브러리
+
+- Python, matplotlib, BeautifulSoup, Pandas, Numpy, sklearn
+
 ## 🗓️ 기간
 
 - 2022년 12월 29일 ~ 2023년 1월 12일
