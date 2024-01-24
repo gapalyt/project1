@@ -1,8 +1,36 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=7FFFD4&height=300&section=header&text=gapalyt%20&fontSize=90&fontColor=FFFFFF&animation=scaleIn)
+## 🗓️ 기간
 
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=gapalyt&show_icons=true&theme=highcontrast)](https://github.com/gapalyt)
+- 2022년 12월 29일 ~ 2023년 1월 12일
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gapalyt&layout=compact)](https://github.com/gapalyt/githubreadme-stats)
+## 📋 분석 배경
 
-![C](https://img.shields.io/badge/-C-123456?style=flat-square&logo=C&logoColor=white)
-![python](https://img.shields.io/badge/-python-3776AB?style=flat&logo=python&logoColor=white)
+- 화석연료보다 친환경적인 전기차의 중요성이 커지고 있음
+- 전기차 대표 기업인 ‘테슬라’ 의 시가총액이 전통 자동차기업들의 시가총액의 합계를 뛰어넘는 등 전기차 시장이 커지고 있음
+
+## 📝 분석 목표
+- 전기차 충전소, 보조금, 연료비, 소비자 인식이 전기차 판매량과 연관이 있는지 시각화, 토픽 모델링, 감성 분석으로 확인
+
+
+## 📃 프로젝트 내용
+
+- (분석 1) 전기차 충전소
+    - 지역별 전기차 충전소 데이터 수집
+    - 지역별 충전소 인프라 (전기차 1대당 충전소 개수) 비교
+    - 충전소와 전기차 등록대수 상관관계 분석
+- (분석 2) 전기차 보조금
+    - 연도별/지역별 보조금 데이터 수집
+    - 연도별/지역별 보조금 차이 시각화
+    - 보조금과 전기차 등록대수 상관관계 분석
+- (분석 3) 연료비
+    - 휘발유/경유/전기차 충전기 요금 데이터 수집
+    - 휘발유/경유/전기차요금 차이 시각화
+    - 연료비와 전기차 등록대수 상관관계 분석
+- (분석 4) 소비자 인식
+    - 전기차에 대한 리뷰 크롤링
+    - 단어 토큰화 진행(OKT 모듈 사용)
+    - 단어 빈도 수 측정
+    - 감성 분석 or topic data 분석 진행
+
+## 💁‍♀️ 담당한 역할
+
+- (분석 3) 연료비
